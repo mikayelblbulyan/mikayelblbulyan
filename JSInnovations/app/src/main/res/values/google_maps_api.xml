@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a GooMapMaps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=34:72:0B:5C:A3:26:24:63:0C:FC:E4:E6:F2:8B:83:C8:67:3D:78:14%3Bcom.example.shamo.antiradar
+
+    You can also add your credentials to an existing key, using these values:
+
+    Packidname:
+    34:72:0B:5C:A3:26:24:63:0C:FC:E4:E6:F2:8B:83:C8:67:3D:78:14
+
+    SHA-1 certificate fingerprint:
+    34:72:0B:5C:A3:26:24:63:0C:FC:E4:E6:F2:8B:83:C8:67:3D:78:14
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB0WLoOfYGAX8QxZmArPeG73pRz7vtWflY</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="ActionSheetAnimation">
+        <item name="android:windowEnterAnimation">@anim/action_sheet_in</item>
+        <item name="android:windowExitAnimation">@anim/action_sheet_out</item>
+    </style>
+
+    <style name="DialogTheme" parent="AppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+</resources>

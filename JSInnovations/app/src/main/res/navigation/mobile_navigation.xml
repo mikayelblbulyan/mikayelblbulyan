@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/general">
+
+    <fragment
+        android:id="@+id/general"
+        android:name="com.app.jsinnovations.fragments.PlaceFragment"
+        tools:layout="@layout/fragment_place"/>
+
+    <fragment
+        android:id="@+id/account"
+        android:name="com.app.jsinnovations.fragments.AccountFragment"
+        tools:layout="@layout/fragment_account"/>
+
+    <fragment
+        android:id="@+id/language"
+        android:name="com.app.jsinnovations.fragments.SlideshowFragment"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/contact_us"
+        android:name="com.app.jsinnovations.fragments.ContactUsFragment"
+        tools:layout="@layout/fragment_contact_us" />
+
+</navigation>

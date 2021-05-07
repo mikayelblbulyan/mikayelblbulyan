@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "927295925318",
+    "firebase_url": "https://js-innovations.firebaseio.com",
+    "project_id": "js-innovations",
+    "storage_bucket": "js-innovations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927295925318:android:1cd87101a3520788d1ee47",
+        "android_client_info": {
+          "package_name": "com.app.jsinnovations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927295925318-7kh8lnnf9aqoto7hab36652s52l54n7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnK4yKfYDHPcCN0FZWd9qabEWcz12A9CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927295925318-7kh8lnnf9aqoto7hab36652s52l54n7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
